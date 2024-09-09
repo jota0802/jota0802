@@ -1,6 +1,6 @@
 -  Hi, I’m João Franco, a student of software engeneer from FIAP BRAZIL 👍
 
-## Jota
+## Sobre mim:
 
  
 <div> 
