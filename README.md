@@ -20,7 +20,7 @@
  
 ##
 
-<div style="display: inline_block">
+<div>
    <a href="https://www.instagram.com/jota0_0f/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%2300772332?style=for-the-badge&logo=instagram&logoColor=white"style='padding:2vw' target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-de-andrade-franco-326a792b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%2300772332?style=for-the-badge&logo=linkedin&logoColor=white"style='padding:2vw' target="_blank"></a> 
 
