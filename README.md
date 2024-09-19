@@ -7,7 +7,7 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jota0802&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jota0802&show_icons=true&theme=tokyonight)  [![Github](https://img.shields.io/github/stars/jota0802?label=Star&style=social)](https://github.com/jota0802)
 
 <div style="display: inline_block; padding:30px"><br>
   <img align="center" alt="Js" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
