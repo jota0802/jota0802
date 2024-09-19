@@ -7,7 +7,7 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jota0802&show_icons=true&theme=tokyonight)  [![Github](https://img.shields.io/github/stars/jota0802?label=Star&style=social)](https://github.com/jota0802)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jota0802&show_icons=true&theme=tokyonight)
 
 <div style="display: inline_block; padding:30px"><br>
   <img align="center" alt="Js" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,6 +17,13 @@
   <img align="center" alt="React" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node" height="60" width="60" style='padding-right:50px' src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
 </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="jota0802-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="jota0802-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="jota0802-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="jota0802-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+</div>
+
  
 ##
 
