@@ -6,9 +6,11 @@
 <div> 
 
 
-
+<div style="display: flex; flex-direction: collum">
+ 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jota0802&show_icons=true&theme=tokyonight)
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jota0802&layout=compact&langs_count=7&theme=radical"/>
+<img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jota0802&layout=compact&langs_count=7&theme=tokyonight" style='padding-top:50px'/>
+</div>
 
 <div style="display: inline_block; padding:30px"><br>
   <img align="center" alt="Js" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
