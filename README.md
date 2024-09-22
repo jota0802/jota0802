@@ -1,4 +1,4 @@
--  Hi, I’m João Franco, a student of software engeneer from FIAP BRAZIL 👍
+z-  Hi, I’m João Franco, a student of software engeneer from FIAP BRAZIL 👍
 
 ## Sobre mim:
 
@@ -12,7 +12,7 @@
 <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jota0802&layout=compact&langs_count=7&theme=tokyonight" style='padding-top:50px'/>
 </div>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jota0802&theme=tokyo-night&bg_color=0d1117&color=79fe96&line=79fe96&point=ffffff&area=true" alt="Jotas´s's Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jota0802&theme=tokyo-night&bg_color=0d1117&color=08056d&line=08056d&point=ffffff&area=true" alt="Jotas´s's Activity Graph"/>
 </p>
 
 <div style="display: inline_block; padding:30px"><br>
