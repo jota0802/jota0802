@@ -11,6 +11,9 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jota0802&show_icons=true&theme=tokyonight)
 <img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jota0802&layout=compact&langs_count=7&theme=tokyonight" style='padding-top:50px'/>
 </div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jota0802&theme=tokyo-night&bg_color=0d1117&color=79fe96&line=79fe96&point=ffffff&area=true" alt="Jotas´s's Activity Graph"/>
+</p>
 
 <div style="display: inline_block; padding:30px"><br>
   <img align="center" alt="Js" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
