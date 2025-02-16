@@ -1,4 +1,4 @@
-z-  Hi, I’m João Franco, a student of software engeneer from FIAP BRAZIL 👍
+-  Hi, I’m João Franco, a student of software engeneer from FIAP BRAZIL 👍
 
 ## Sobre mim:
 
