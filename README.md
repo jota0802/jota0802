@@ -38,7 +38,7 @@
 ### 🌍 Conecte-se Comigo
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/joão-victor-de-andrade-franco-326a792b6/" target="_blank">
+  <a href="https://www.linkedin.com/in/joão-franco" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/jota0_0f/" target="_blank">
