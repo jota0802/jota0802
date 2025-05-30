@@ -44,7 +44,7 @@
   <a href="https://www.instagram.com/jota0_0f/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="mailto:SEU_EMAIL@exemplo.com" target="_blank">
+  <a href="mailto:jvfranco@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
