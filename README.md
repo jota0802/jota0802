@@ -16,10 +16,12 @@
 </p>
 
 <div style="display: inline_block; padding:30px"><br>
-  <img align="center" alt="Js" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="typescript" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Python" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="React" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="React" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node" height="60" width="60" style='padding-right:50px' src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
 </div>
