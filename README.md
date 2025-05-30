@@ -1,36 +1,50 @@
--  Hi, I’m João Franco, a student of software engeneer from FIAP BRAZIL 👍
+# 👋 Olá, sou João Franco 
+### Estudante de Engenharia de Software na FIAP Brasil
 
-## Sobre mim:
+---
 
- 
-<div> 
+### 📊 Minhas Estatísticas GitHub
 
+<div align="center" style="margin-bottom:20px">
+  
+[![Estatísticas](https://github-readme-stats.vercel.app/api?username=jota0802&show_icons=true&theme=dark&hide_border=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_radius=10)](https://github.com/jota0802)
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jota0802&layout=compact&theme=dark&hide_border=true&title_color=58a6ff&text_color=8b949e&border_radius=10)](https://github.com/jota0802)
 
-<div style="display: flex; flex-direction: collum">
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jota0802&show_icons=true&theme=tokyonight)
-<img height="194em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jota0802&layout=compact&langs_count=7&theme=tokyonight" style='padding-top:50px'/>
-</div>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jota0802&theme=tokyo-night&bg_color=0d1117&color=08056d&line=08056d&point=00c2ff&area=true" alt="Jotas´s's Activity Graph"/>
-</p>
-
-<div style="display: inline_block; padding:30px"><br>
-  <img align="center" alt="HTML" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="typescript" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Python" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="React" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="React" height="60" width="60" style='padding-right:50px' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node" height="60" width="60" style='padding-right:50px' src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
 </div>
 
- 
-##
+---
 
-<div>
-   <a href="https://www.instagram.com/jota0_0f/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%2300772332?style=for-the-badge&logo=instagram&logoColor=white"style='padding:2vw' target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-de-andrade-franco-326a792b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%2300772332?style=for-the-badge&logo=linkedin&logoColor=white"style='padding:2vw' target="_blank"></a> 
+### 🛠️ Stack Tecnológica
 
-</div><br/>
+<div align="center" style="margin:25px 0">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+</div>
+
+---
+
+### 🚀 Projeto em Destaque
+
+[![Lab Dash Animates](https://github-readme-stats.vercel.app/api/pin/?username=La-Elvis-Tech&repo=lab-dash-animates&theme=dark&show_owner=true)](https://github.com/La-Elvis-Tech/lab-dash-animates)
+
+---
+
+### 🌍 Conecte-se Comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/joão-victor-de-andrade-franco-326a792b6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/jota0_0f/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:SEU_EMAIL@exemplo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</div>
