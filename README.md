@@ -3,7 +3,7 @@
 
 ---
 
-### 📊 Minhas Estatísticas GitHub
+### Minhas Estatísticas GitHub
 
 <div style="margin-bottom:20px">
   
@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Stack Tecnológica
+### Stack Tecnológica
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center; margin: 20px 0;">
   <!-- Linguagens e Tecnologias Web Básicas -->
@@ -48,13 +48,13 @@
 
 ---
 
-### 🚀 Projeto em Destaque
+### Projeto em Destaque
 
 [![Lab Dash Animates](https://github-readme-stats.vercel.app/api/pin/?username=La-Elvis-Tech&repo=lab-dash-animates&theme=gotham&show_owner=true_icons=true&hide_border=true&layout=compact)](https://github.com/La-Elvis-Tech/lab-dash-animates)
 
 ---
 
-### 🌍 Conecte-se Comigo
+### Conecte-se Comigo
 
 <div>
   <a href="https://www.linkedin.com/in/joão-franco" target="_blank">
