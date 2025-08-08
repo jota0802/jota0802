@@ -16,8 +16,6 @@
 
 ### 🛠️ Stack Tecnológica
 
-### 🛠️ Stack Tecnológica
-
 <div style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center; margin: 20px 0;">
   <!-- Linguagens e Tecnologias Web Básicas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
