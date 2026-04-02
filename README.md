@@ -36,9 +36,3 @@ Desenvolvedor full-stack com foco em interfaces modernas e soluções escalávei
 
 ---
 
-<div align="center">
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=jota0802&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jota0802&theme=gotham&hide_border=true&layout=compact)
-
-</div>
