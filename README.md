@@ -64,9 +64,3 @@
 ![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=F24E1E)
 ![Plane](https://img.shields.io/badge/Plane-000000?style=flat&logo=plane&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude-000000?style=flat&logo=anthropic&logoColor=white)
-
-###
-
-![snake gif](https://github.com/jota0802/snake-commits/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
-
-###
