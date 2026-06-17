@@ -15,7 +15,7 @@
 ###
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=jota0802&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=E5E5E5&text_color=A3A3A3&icon_color=FFFFFF&ring_color=FFFFFF" height="160" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jota0802&show_icons=true&hide_border=true&bg_color=00000000&title_color=E5E5E5&text_color=A3A3A3&icon_color=FFFFFF&ring_color=FFFFFF" height="160" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jota0802&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=E5E5E5&text_color=A3A3A3" height="160" alt="languages graph"  />
 </div>
 
