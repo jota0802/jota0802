@@ -7,3 +7,7 @@
 </a>
 
 [Portfólio](https://jotaf-portfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-franco/) · [jvfranco08@gmail.com](mailto:jvfranco08@gmail.com)
+
+<p align="center">
+  <img src="imagens/assinatura.gif" width="360" alt="GIF animado de um personagem de anime de cabelo escuro e luva preta">
+</p>
